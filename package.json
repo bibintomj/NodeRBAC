@@ -1,0 +1,19 @@
+{
+  "name": "noderbac",
+  "version": "1.0.0",
+  "description": "Sample Demo app to test authentication & authorisation",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibintomj/NodeRBAC.git"
+  },
+  "author": "Bibin Tom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibintomj/NodeRBAC/issues"
+  },
+  "homepage": "https://github.com/bibintomj/NodeRBAC#readme"
+}
