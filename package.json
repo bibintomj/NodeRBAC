@@ -4,7 +4,8 @@
   "description": "Sample Demo app to test authentication & authorisation",
   "main": "app/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js,css,ejs,json --watch app"
   },
   "repository": {
     "type": "git",
